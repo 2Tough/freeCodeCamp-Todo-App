@@ -1,2 +1,2 @@
-# freeCodeCamp-Todo-App
+# freecodecamp-todo-app
 A Todo app
